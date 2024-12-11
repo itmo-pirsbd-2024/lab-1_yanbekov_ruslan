@@ -35,6 +35,7 @@ JoinStrategy-lab1
    time, ms | 0,238 | 3,484 | 58,685 | 1081,339 | 14341,255 | 
    err, ms ±| 0,011 | 0,043 | 1,221  | 32,951   | 604,950   |  
 
+
 ### CPU flamegraph. 
 ![merge_cpu.png](pictures/merge_cpu.png)
 
